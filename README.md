@@ -1,1 +1,1 @@
-https://test-phl-api.fyinformation.cc
+fyinformation.cc
