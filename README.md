@@ -1,1 +1,1 @@
-@lanhaohttps://test-phl-api.fyinformation.cc$abc
+@lanhaotest-phl-api.fyinformation.cc$abc
