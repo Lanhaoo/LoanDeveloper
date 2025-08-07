@@ -2,7 +2,7 @@
 
 @Indiatest-ind-api.fyinformation.cc$Test
 
-myapitesthengphlhengapidianfyinformationdiancc
+kaishitesthengphlhengapidianfyinformationdianccjieshu
 
 @AppId:lanhao
 
